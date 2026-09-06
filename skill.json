@@ -1,0 +1,12 @@
+{
+  "name": "genpark-multi-gpu-tensor-parallel-sharding-planner-skill",
+  "version": "1.0.0",
+  "description": "Calculates tensor parallelism column and row weight matrix partition splits across distributed GPU clusters.",
+  "category": "Edge AI Quantization & Model Sharding",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-multi-gpu-tensor-parallel-sharding-planner-skill",
+  "verified": true,
+  "stars": 8
+}
